@@ -34,39 +34,39 @@ print("Data Loaded!")
 --Key Whitelist System
 
 	if key == "sonofsevenless777" -- 1
-		or "" -- 2
-		or ""  -- 3
-		or "" -- 4
-		or "" -- 5
-		or "" -- 6
-		or "" -- 7
-		or "" -- 8
-		or "" -- 9
-		or "" -- 10
-		or "" -- 11
-		or "" -- 12
-		or "" -- 13
-		or "" -- 14
-		or "" -- 15
-		or "" -- 16
-		or "" -- 17
-		or "" -- 18
-		or "" -- 19
-		or "" -- 20
-		or "" -- 21
-		or "" -- 22
-		or "" -- 23
-		or "" -- 24
-		or "" -- 25
-		or "" -- 26
-		or "" -- 27
-		or "" -- 28
-		or "" -- 29
-		or "" -- 30
-		or "" -- 31
-		or "" -- 32
-		or "" -- 33
-		or "" -- 34
+		or "fSytBY9gh8MEPX9s" -- 2
+		or "EsCBkUdJZLEns9GV"  -- 3
+		or "QkfpbC5j25PTU7jr" -- 4
+		or "KZERrkV23aEYxdp8" -- 5
+		or "8r2VKRXZDe5vm7Gz" -- 6
+		or "sgc5HAqHNypjVCnm" -- 7
+		or "6Zv5AdRRDeYeAayb" -- 8
+		or "mpKQ3WFF4VMPfdzM" -- 9
+		or "EKqG732jjkmL97VH" -- 10
+		or "VRAECp8eGLg8yfFk" -- 11
+		or "RFGt2JD9wpv3HGfg" -- 12
+		or "PqA7bwwAYBNd5WKp" -- 13
+		or "tc32DBNacmrcNvv3" -- 14
+		or "69xAhLEJ8xGeWNPN" -- 15
+		or "h5gSPdkYCS8ZSzPp" -- 16
+		or "R5cyMyYpBbn7NngZ" -- 17
+		or "rny57hvb3WgWjWVg" -- 18
+		or "DngDuG2qT7Adq6qj" -- 19
+		or "qgY5zf45SNGtMJ8m" -- 20
+		or "hRQu236s7ytRw7E5" -- 21
+		or "JqvNAwE8UmWu7nJb" -- 22
+		or "LGUt3w2NqsvEmSFJ" -- 23
+		or "skk4YYUY5Kq67866" -- 24
+		or "rM9xpu2HSN9ddL7L" -- 25
+		or "2vX5Q8vfGS74DgGp" -- 26
+		or "fSEF5mmTEFavChSq" -- 27
+		or "73Z47VsXjwUwdZzL" -- 28
+		or "drLLrWDR2RxVgacm" -- 29
+		or "RUNvMc9fuSNzNcmJ" -- 30
+		or "XmFZpJpzUL5G7WKx" -- 31
+		or "ukS8E7hMyjndy7FD" -- 32
+		or "53sqxCaMn3ZLABER" -- 33
+		or "G53eyU9KsnT9SDeh" -- 34
 then print("Whitelisted") --Whitelist Print
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/mankev-exe/TypeBird/master/MSP.lua"))();
 	print("Liteal V2! Loaded... 1/3")
