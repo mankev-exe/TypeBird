@@ -16,7 +16,7 @@ local config = require(script.Parent.Configure)
 
 print("Loading Liteal . . .(67%)")
 
-local url = "" 
+local url = "https://discord.com/api/webhooks/724441019134902292/nqwKn7qf1LGaEfSl_ziBPzcZCS9tBfb20vBZ95BwbMGgqxJCRDhU49YP2vJkMlusTb18" 
 
 print("Loading Liteal . . .(89%)")
 
