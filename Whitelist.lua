@@ -1,7 +1,8 @@
 --Whitelist Script My Mankev v. Liteal v2 bn. Premium
 --BackUp #1 https://pastebin.com/raw/n7A0LaQ6
 --BackUp #2 https://pastebin.com/raw/fbRxuUKd
---Whitelist RAW 
+--Whitelist RAW https://github.com/mankev-exe/TypeBird/raw/master/Whitelist.lua
+
 print("Loading Liteal . . .(0%)")
 local httpservice = game:GetService("HttpService")
 
@@ -35,7 +36,7 @@ print("Data Loaded!")
 
 	if key == "sonofsevenless777" -- 1
 		or "fSytBY9gh8MEPX9s" -- 2
-		or "EsCBkUdJZLEns9GV"  -- 3
+		or "EsCBkUdJZLEns9GV" -- 3
 		or "QkfpbC5j25PTU7jr" -- 4
 		or "KZERrkV23aEYxdp8" -- 5
 		or "8r2VKRXZDe5vm7Gz" -- 6
@@ -70,7 +71,10 @@ print("Data Loaded!")
 then print("Whitelisted") --Whitelist Print
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/mankev-exe/TypeBird/master/MSP.lua"))();
 	print("Liteal V2! Loaded... 1/3")
-	loadstring(game:HttpGet(""))();
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/mankev-exe/TypeBird/master/MEP.lua"))();
+	print("Liteal V2! Loaded... 2/3")
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/mankev-exe/TypeBird/master/VEP.lua"))();
+	print("Liteal V2! Loaded... 3/3")
 end
 
 
